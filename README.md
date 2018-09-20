@@ -1,6 +1,5 @@
 # BFT : This app support Android, IOS, Windows Phone. 
 
-![alt text](https://github.com/isahhin/swcd/blob/master/contents/swcd2.PNG)
 
 # Privacy Policy
 Sahin Isik built the BFT app as a Free app. This SERVICE is provided by Sahin Isik at no cost and is intended for use as is.
