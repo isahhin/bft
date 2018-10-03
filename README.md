@@ -1,5 +1,6 @@
-# BFT : This app support Android, IOS, Windows Phone. 
+# Baby Fortune Teller (BFT) : This app support Android, IOS, Windows Phone. 
 
+Link: https://play.google.com/store/apps/details?id=com.companyname2
 
 # Privacy Policy
 Sahin Isik built the BFT app as a Free app. This SERVICE is provided by Sahin Isik at no cost and is intended for use as is.
