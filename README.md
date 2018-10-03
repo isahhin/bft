@@ -1,4 +1,4 @@
-# Baby Fortune Teller (BFT) : This app support Android, IOS, Windows Phone. 
+# Baby Fortune Teller (BFT) : This app support Android. 
 
 Link: https://play.google.com/store/apps/details?id=com.companyname2
 
